@@ -1,0 +1,24 @@
+{
+  "name": "@407dev/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config used by 407dev",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/407dev/prettier-config.git"
+  },
+  "keywords": [
+    "407dev",
+    "prettier",
+    "config"
+  ],
+  "author": "David DeCorso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/407dev/prettier-config/issues"
+  },
+  "homepage": "https://github.com/407dev/prettier-config#readme"
+}
