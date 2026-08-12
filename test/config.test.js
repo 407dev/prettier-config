@@ -9,5 +9,5 @@ test("formats code with the shared Prettier 3 options", async () => {
         { ...options, parser: "babel" },
     );
 
-    assert.equal(formatted, "const example = value => {\n  return { value }\n}\n");
+    assert.equal(formatted, "const example = value => {\n  return { value };\n};\n");
 });
